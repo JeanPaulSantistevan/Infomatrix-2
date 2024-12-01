@@ -1,0 +1,4 @@
+repository "Infomatrix 2@ProyectoInfomatrix@cloud"
+  path "/"
+    br "/main"
+    co "/main"
